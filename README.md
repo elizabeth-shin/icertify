@@ -2,6 +2,11 @@
 
 iCertify is a lightweight, AI‑augmented certification framework designed to help professionals build, validate, and showcase applied AI engineering skills. The project focuses on practical capability development, transparent evaluation, and real‑world readiness.
 
+iCertify
+iCertify is a lightweight, AI‑augmented certification framework designed to help professionals build, validate, and showcase applied AI engineering skills. The project focuses on practical capability development, transparent evaluation, and real‑world readiness.
+
+**iCertify is built on the [ARISE Framework](https://elizabeth-shin.github.io/arise.html), a lightweight model for AI enablement, governance, and capability development.**
+
 ## What This Repository Includes
 - Core concepts behind the iCertify model  
 - Drafts of the certification structure and skill pathways  
