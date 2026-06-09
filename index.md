@@ -6,6 +6,16 @@ This certification focuses on practical skill, reasoning quality, and the abilit
 
 ---
 
+## The ARISE Framework
+
+ARISE is the methodology behind iCertify's program design approach.
+
+**Audit, Requirements, Implement, Sustain, Evaluate** — a governance-first framework for building AI-augmented learning and certification systems that scale.
+
+[View the ARISE Framework →](https://elizabeth-shin.github.io/arise.html)
+
+---
+
 ## What You’ll Learn
 
 ### AI‑Augmented Engineering Foundations
