@@ -11,10 +11,10 @@ This certification focuses on practical system-level judgment, reasoning quality
 AI work today requires more than simple tool usage. It requires absolute **architectural discipline**, **probabilistic evaluation**, and **system-level governance**.
 
 iCertify evaluates capability, not memorization:
-├── Behavioral Reasoning Evaluation
-├── Safe Architectural Design
-├── Deterministic Governance Application
-└── Context-Aware Edge Case Mitigation
+* 🧠 **Behavioral Reasoning Evaluation** — Assessing model logic, semantic drift, and output quality.
+* 🏗️ **Safe Architectural Design** — Designing robust, secure, and human-in-the-loop systems.
+* 🔐 **Deterministic Governance Application** — Implementing strict enterprise control planes and guardrails.
+* 🛡️ **Context-Aware Edge Case Mitigation** — Securing workflows against multi-modal exploits and stressors.
 
 ---
 
